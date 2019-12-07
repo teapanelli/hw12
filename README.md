@@ -1,4 +1,16 @@
+# Paint the Town
 
+A MS Paint-inspired drawing program made in p5.
+
+## Summary
+
+I grew up drawing on MS Paint as a kid, and I wanted to do something simple and artistic for my final project. It won't be flashy orexcessive, just barebones and simple to call back to its reference material.
+
+Interactivity includes keyboard and mouse input.
+
+## Component Parts
+
+The Project is just a p5 project, so there is nothing particularly outstanding about the code I'm using. (EDIT: I reference an existing p5 code, which I link below.)
 
 ## Timeline
 
