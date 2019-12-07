@@ -15,7 +15,7 @@ By far, the hardest hurdle to overcome was the color selection. Not only could I
 
 ## Completed Work
 
-See "final_code.js" in the hw12 repository! :)
+[The final product!](https://github.com/teapanelli/hw12/blob/master/final_code.js)
 
 ## References and links
 
