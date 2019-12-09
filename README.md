@@ -28,6 +28,7 @@ By far, the hardest hurdle to overcome was the color selection. Not only could I
 ## Completed Work
 
 [The final product!](https://github.com/teapanelli/hw12/blob/master/final_code.js)
+[In-browser/p5!](https://editor.p5js.org/tpanelli/sketches/m225jcL5j)
 
 ## References and links
 
